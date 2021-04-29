@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-if __name__ = "__main__":
+if __name__ == "__main__":
     import sys
-    if len(sys.arg) == 1:
+    if len(sys.argv) == 1:
         print("0 arguments.")
 
     elif len(sys.argv) == 2:
