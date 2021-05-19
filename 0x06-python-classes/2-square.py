@@ -2,6 +2,7 @@
 
 """Square class"""
 
+
 class Square:
     """Square class init, assign a value to
             Args:
