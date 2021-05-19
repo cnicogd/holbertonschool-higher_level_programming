@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""0-square empty class Square that defines a square"""
+"""1-square filled by the last excersise"""
 
 
 class Square:
