@@ -1,3 +1,12 @@
 #!/usr/bin/python3
+
+
+"""
+This is a module for a class Rectangle
+"""
+
+
 class Rectangle:
-    pass
+        """Class of a Rectangle"""
+
+        pass
