@@ -6,7 +6,7 @@ This is a module for a class Rectangle
 
 
 class Rectangle:
-        """ Init Class width set 0 and height set 0"""
+    """ Init Class width set 0 and height set 0"""
     def __init__(self, width=0, height=0):
         """ Constructor """
         self.__width = width
