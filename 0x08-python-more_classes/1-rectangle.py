@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+
+
+"""
+This is a module for a class Rectangle
+"""
+
+
 class Rectangle:
     """This class is for manage a rectangle"""
 
