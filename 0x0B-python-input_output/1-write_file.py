@@ -2,9 +2,9 @@
 """Module that read a file"""
 
 
-def number_of_lines(filename=""):
-    """ function that returns the number of lines of a text file """
+def write_file(filename="", text=""):
+    """ function that writes a string to a text file (UTF8)  """
 
-    with open(filename) as f:
-        count = len(f.readlines())
-    return count
+    with open(filename, "w", encoding='utf-8') as f:
+        data = f.write(text)
+        return data
